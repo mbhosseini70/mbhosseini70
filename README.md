@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/119351840?s=400&u=cdaf5c596edc182707fa43f07c551cec6ccb7854&v=4" width="220" style="border-radius: 50%;">
-</p>
-
 <h1 align="center">Hi, I'm Mohammad Hosseini 👋</h1>
 
 <p align="center">
