@@ -1,4 +1,4 @@
-# Hi, I'm Kaveh Hosseini 
+# Hi, I'm Mohammad Hosseini 
 
 **AI Engineer in progress**  
 Graduated in **Information Technology** and **Artificial Intelligence** · Currently studying **Big Data** at VUB.
